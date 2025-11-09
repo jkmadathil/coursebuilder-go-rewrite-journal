@@ -1,0 +1,1 @@
+I need to synthesize all the prompts that I have used in this chat so that I can add it to a file prompts-repo-structure.md. While creating the markdown file, it will be useful to comment on what the prompt helps in and also provide a critical evaluation of it to recommend better prompting strategies to obtain a much better output

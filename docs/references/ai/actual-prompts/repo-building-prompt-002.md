@@ -1,0 +1,1 @@
+Generate the ROADMAP.md for the weeks 1-9 with milestones, goals and also learning activities. The learning activities should align with milestones and goals and should have pointers to additional activities that are being done beyond the hands on experience with Course Builder

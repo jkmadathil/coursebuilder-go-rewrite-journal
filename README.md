@@ -7,7 +7,7 @@
 ## 🎯 Purpose
 
 This repository serves as a **learning journal, technical notebook, and architectural reflection space**.  
-It documents the process of understanding, decomposing, and planning a re-implementation of **Google CourseBuilder** in **Go**, focusing on:
+It documents the process of understanding, decomposing, and planning a re-implementation of [**Google CourseBuilder**](https://github.com/google/coursebuilder-core/) in **Go**, focusing on:
 
 1. Building webapp architecture fluency (design, data, and deployment).
 2. Documenting decisions, trade-offs, and reasoning transparently.
@@ -145,7 +145,7 @@ See [`/templates`](./templates/) for ready-to-use Markdown files:
 - `weekly-journal.md` — consistent structure for weekly entries.
 - `experiment-report.md` — step-by-step experiment documentation.
 - `adr-template.md` — decision record structure.
-- `module-mapping.csv` — schema for mapping CourseBuilder files.
+- `module-mapping-template.csv` — schema for mapping CourseBuilder files.
 
 ---
 
